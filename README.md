@@ -5,6 +5,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuRezende&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+## Sobre mim
+Sou um desenvolvedor Front-end, formado em Ciência da Computação, desde 2020 trabalhando com JavaScript e TypeScript, com foco em Front-end, mas já trabalhei Back-end com Node.js com express.
+No momento estou trabalhando com Vue.js com SASS, mas também sei React e Styled Components e também estou me aventurando com Flutter e Dart.
+
 ## Linguagens de Programação
 <div>
  <img align="center" alt="Dirceu-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
